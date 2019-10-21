@@ -1,4 +1,4 @@
-# Hash Game (Jogo da Velha)
+# Travel App
 
 A new Flutter project. Created for the videos on my channel.
 - Video: 
@@ -17,6 +17,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-![Home UI](https://raw.githubusercontent.com/jonathan1313/HashGameFlutter/master/screen_shot/screen_shot3.png)
-![Home UI](https://raw.githubusercontent.com/jonathan1313/HashGameFlutter/master/screen_shot/screen_shot1.png)
-![Home UI](https://raw.githubusercontent.com/jonathan1313/HashGameFlutter/master/screen_shot/screen_shot2.png)
+![Home UI](https://raw.githubusercontent.com/jonathan1313/travels_app/master/screen_shot/home.png)
+![Details UI](https://raw.githubusercontent.com/jonathan1313/travels_app/master/screen_shot/details.png)
