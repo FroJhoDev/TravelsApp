@@ -1,7 +1,7 @@
 # Travel App
 
 A new Flutter project. Created for the videos on my channel.
-- Video: 
+- Video: https://youtu.be/zoeZg_oP_i8
 
 ## Getting Started
 
